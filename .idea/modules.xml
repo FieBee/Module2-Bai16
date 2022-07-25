@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BT - Find the maximum value and write down the file/BT - Find the maximum value and write down the file.iml" filepath="$PROJECT_DIR$/BT - Find the maximum value and write down the file/BT - Find the maximum value and write down the file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT - Copy file text/BT - Copy file text.iml" filepath="$PROJECT_DIR$/BT - Copy file text/BT - Copy file text.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai16.iml" filepath="$PROJECT_DIR$/.idea/Bai16.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ReadFileExample/Sum the numbers in the text file.iml" filepath="$PROJECT_DIR$/ReadFileExample/Sum the numbers in the text file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH - Find the maximum value and write down the file/TH - Find the maximum value and write down the file.iml" filepath="$PROJECT_DIR$/TH - Find the maximum value and write down the file/TH - Find the maximum value and write down the file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH - Sum the numbers in the text file/TH - Sum the numbers in the text file.iml" filepath="$PROJECT_DIR$/TH - Sum the numbers in the text file/TH - Sum the numbers in the text file.iml" />
     </modules>
   </component>
 </project>
